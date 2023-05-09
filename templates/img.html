@@ -1,0 +1,313 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Responsive Navbar</title>
+	      <link rel="icon" href="..//static//logo.png" type="image/png">
+
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			font-family: Arial, sans-serif;
+		}
+
+		header {
+			background-color: #333;
+			color: #fff;
+			padding: 20px;
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			position: relative;
+			z-index: 1;
+		}
+
+		.logo {
+			font-size: 24px;
+			font-weight: bold;
+			text-transform: uppercase;
+			letter-spacing: 2px;
+		}
+
+		.navbar {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		.navbar a {
+			color: #fff;
+			text-decoration: none;
+			font-size: 16px;
+			padding: 10px 20px;
+			margin: 0 10px;
+			border-radius: 5px;
+			transition: background-color 0.3s ease;
+		}
+
+		.navbar a:hover {
+			background-color: #555;
+		}
+
+		.user-icon {
+			position: absolute;
+			top: 20px;
+			right: 20px;
+			font-size: 20px;
+			cursor: pointer;
+			transition: color 0.3s ease;
+		}
+
+		.user-icon:hover {
+			color: #bbb;
+		}
+
+		.dropdown {
+			position: absolute;
+			top: 60px;
+			right: 20px;
+			background-color: #fff;
+			box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+			padding: 10px;
+			display: none;
+			z-index: 2;
+		}
+
+		.dropdown a {
+			display: block;
+			color: #333;
+			font-size: 14px;
+			padding: 5px 0;
+			margin: 5px 0;
+			border-bottom: 1px solid #ccc;
+			text-decoration: none;
+		}
+
+		.dropdown a:last-child {
+			border-bottom: none;
+		}
+
+		.show {
+			display: block;
+		}
+
+		@media screen and (max-width: 768px) {
+			.navbar {
+				flex-wrap: wrap;
+				justify-content: center;
+			}
+
+			.navbar a {
+				flex: 1 0 auto;
+				margin: 5px;
+			}
+
+			.user-icon {
+				top: 10px;
+				right: 10px;
+			}
+
+			.dropdown {
+				top: 40px;
+				right: 10px;
+			}
+		}
+
+
+		header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+nav {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+li a {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+}
+
+.user {
+  position: relative;
+}
+
+.user img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.user-options {
+  position: absolute;
+  top: 40px;
+  right: 0;
+  background-color: #fff;
+  padding: 10px;
+  display: none;
+}
+
+.user:hover .user-options {
+  display: block;
+}
+
+	.container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			align-items: center;
+			margin: 0 auto;
+			max-width: 800px;
+			padding: 20px;
+			background-color: #f7f7f7; /* Light gray background */
+			border-radius: 10px; /* Rounded corners */
+			box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow */
+		}
+
+		.item {
+			margin: 10px;
+			flex-basis: 200px;
+			flex-grow: 1;
+			flex-shrink: 1;
+			min-height: 200px;
+			background-color: #fff; /* White background */
+			border-radius: 10px; /* Rounded corners */
+			box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow */
+			overflow: hidden; /* Hide overflowing images */
+		}
+
+		img {
+			max-width: 100%;
+			max-height: 100%;
+			display: block;
+			margin: 0 auto;
+			object-fit: cover; /* Scale images to cover container */
+		}
+
+		@media screen and (max-width: 480px) {
+			.container {
+				flex-direction: column;
+				align-items: center;
+			}
+
+			.item {
+				flex-basis: 100%;
+			}
+		}
+  input[type="text"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #f2f2f2;
+  margin-right: 5px;
+  width: 300px;
+  height: 50px;
+  resize: none;
+}
+
+input[type="textarea"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #f2f2f2;
+  margin-right: 5px;
+  width: 300px;
+  height: 50px;
+  resize: none;
+}
+
+button[type="submit"] {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+}
+	</style>
+</head>
+<body>
+<header>
+  <nav>
+    <ul>
+      <li><a href="/dashboard">Home</a></li>
+      <li><a href="/database">Database</a></li>
+      <li><a href="/detailed-preview">Detailed Preview</a></li>
+      <li><a href="/about">About</a></li>
+    </ul>
+  </nav>
+  <div class="user">
+    <img src="../static/files/user-icon.png" alt="User icon">
+    <div class="user-options">
+      <a href="#"> {{user_name}}</a>
+      <a href="/logout">Logout</a>
+    </div>
+  </div>
+</header>
+
+
+
+	<div class="container">
+		<div class="item">
+			<img src="{{input}}">
+		</div>
+		<div class="item">
+			<img src="{{detected}}">
+		</div>
+		<div class="item">
+			{{easyocr_text}}
+		</div>
+		<div class="item">
+			{{vehicle_class}}
+		</div>
+		<div class="item">
+			<form method="POST" action = "/dashboard">
+
+				<input type="text" placeholder="Rider Name" name="Rider_Name" >
+				<br><br>
+				<input type="text" placeholder="Rider Phone Number" name="Rider_Phone_Number" >
+
+		</div>
+		<div class="item">
+<!--			Capture Face-->
+
+<!--				<input type="submit" value="Capture Face">-->
+				<input type="text" placeholder="Enter House / Shop Number" name="House_Number" >
+			<br><br>
+
+				<input type="textarea" placeholder="Purpose of visit" name="Purpose" >
+
+
+		</div>
+	</div>
+
+<!--<form method = "POST" action = "/dashboard">-->
+	<button type="submit" name="Back" value="Next">Next</button>
+	<button type="submit" name="Back" value="Back">Back</button>
+
+</form>
+
+</body>
+</html>
+
+

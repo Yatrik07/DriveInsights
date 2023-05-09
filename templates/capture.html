@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Live Camera Feed</title>
+  </head>
+  <body>
+    <h1>Live Camera Feed</h1>
+    <div>
+      <img src="{{ url_for('captured_img') }}" alt="My Image">
+    </div>
+    <h3> class : {{ vehicle_class }} </h3>
+    <button onclick="location.href='/live'">Retake</button>
+
+  </body>
+</html>

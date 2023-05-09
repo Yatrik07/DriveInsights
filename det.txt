@@ -1,0 +1,58 @@
+SEMMA -> Sample Explore Modify Model Assess Conclusion
+
+1. sample :
+->Collected data from kaggle 
+    as well as collected data manually to
+->population is all the vehicle number plate images in the world
+->the this dataset is basically a sample of that data
+->No sub-sample was teken
+
+2. Explore:
+->Went to each image one by one manually
+->some inappropriate or noise images were removed manually
+->as well as some vehicle number plate images collected manually
+
+3. Modify:
+-> Manually went through the data and removed some inappropriate images
+
+4. Model:
+-> Created and Developed two different models
+Scratch model using Keras
+Yolov5 Model
+
+5. Assess: 
+Yolov5 Gives >90% accuracy
+that is concluded as best model
+
+
+
+
+
+
+1. Data Acqisition
+->Collected data from kaggle 
+    as well as collected data manually to
+->population is all the vehicle number plate images in the world
+->the this dataset is basically a sample of that data
+->No sub-sample was teken
+
+2. Data Munging - None
+
+3. Data Store : 
+SQLite is used as the Database for the projectwork
+
+4. Exploratory Data Analysis: 
+None
+
+5.  Manually went trough every Data
+by Data Analysis and Exploration, found some noisy images the may lead to model underfitting
+->as well as some vehicle number plate images collected manually
+
+6. Modeling 
+-> Created and Developed two different models
+Scratch model using Keras
+Yolov5 Model
+
+7. Implementation
+Yolov5 Gives >90% accuracy
+that is concluded as best model

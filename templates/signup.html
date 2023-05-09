@@ -1,0 +1,89 @@
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--  <head>-->
+<!--    <title>Login Page</title>-->
+<!--    <link rel="stylesheet" type="text/css" href="../static/css/login_style.css">-->
+
+<!--    <script>-->
+<!--            function showPopup() {-->
+<!--        alert("Please enter your username and password to continue.");-->
+<!--      }-->
+<!--    </script>-->
+
+<!--    </script>-->
+
+<!--  </head>-->
+<!--  <body>-->
+<!--    <div class="container">-->
+<!--      <form action="/dashboard" method="post">-->
+<!--        <h1>Login</h1>-->
+<!--        <label for="username">Username</label>-->
+<!--        <input type="text" id="username" name="username">-->
+<!--        <label for="password">Password</label>-->
+<!--        <input type="password" id="password" name="password">-->
+<!--        <input type="submit" value="Submit" onclick="if(document.getElementById('username').value==='' || document.getElementById('password').value==='') {showPopup(); return false;}" >-->
+
+<!--&lt;!&ndash;        <input type="submit" value="create_user" formaction="/signup" >&ndash;&gt;-->
+
+<!--      </form>-->
+<!--    </div>-->
+<!--  </body>-->
+<!--</html>-->
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Login Page</title>
+          <link rel="icon" href="logo.png" type="image/png">
+
+    <link rel="stylesheet" type="text/css" href="../static/css/login_style.css">
+    <script>
+      function showPopup() {
+        alert("Please enter your username and password to continue.");
+      }
+    </script>
+
+
+    <script>
+      {% if alert %}
+      alert("{{ alert_meaage }}");
+
+      {% endif %}
+    </script>
+
+
+
+  </head>
+  <body>
+    <div class="container">
+      <form action="/dashboard" method="post">
+        <h1>Signup</h1>
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password">
+<!--        <input type="submit" value="Login">-->
+                <input type="button" value="Signup" formaction="/login">
+
+      </form>
+<!--      <form action="/signup">-->
+<!--      </form>-->
+      <script>
+        const loginForm = document.querySelector('form');
+        loginForm.addEventListener('submit', (event) => {
+          if(document.getElementById('username').value==='' || document.getElementById('password').value==='') {
+            event.preventDefault();
+            showPopup();
+          }
+        });
+      </script>
+    </div>
+  </body>
+</html>

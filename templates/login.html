@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Login Page</title>
+    <link rel="stylesheet" type="text/css" href="../static/css/login_style.css">
+    <script>
+function showPopup(buttonClicked) {
+  if (buttonClicked === 'login' && (document.getElementById('username').value === '' || document.getElementById('password').value === '')) {
+    alert("Please enter your username and password to continue.");
+  } else if (buttonClicked === 'signup') {
+    // do something else, like redirect to the signup page
+  }
+}
+    </script>
+
+        <script>
+      {% if alert %}
+      alert("{{ alert_meaage }}");
+      {% endif %}
+    </script>
+
+  </head>
+  <body>
+    <div class="container">
+      <form action="/dashboard" method="post" id = "form1">
+        <h1>Login</h1>
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password">
+<!--        <input type="submit" value="Login" onclick="showPopup(true);" >-->
+<!--        <input type="submit" value="Signup" formaction="/signup"  onclick="showPopup(false);">-->
+
+        <input type="submit" value="Login" onclick="showPopup('login');">
+      </form>
+      <form action="/signup" method="post">
+
+        <input type="submit" value="Signup" formaction="/signup" onclick="showPopup('signup');">
+
+      </form>
+
+      <script>
+        const loginForm = document.querySelector('form');
+        loginForm.addEventListener('submit', (event) => {
+          if(document.getElementById('username').value==='' || document.getElementById('password').value==='') {
+            event.preventDefault();
+            showPopup(true);
+          }
+        });
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,942 @@
+2022-12-06 19:56:24.885953	Entered function showTable.
+2022-12-06 22:00:38.131588	Entered function dropTabel.
+2022-12-06 22:00:38.323919	Table Train dropped successfully.
+2022-12-06 22:00:38.323919	Entered function showTable.
+2022-12-07 10:01:10.536962	Entered function showTable.
+2022-12-07 10:02:45.267609	Entered function showTable.
+2022-12-07 10:03:41.669753	Entered function showTable.
+2022-12-07 16:39:49.062037	Entered function dropTabel.
+2022-12-07 16:39:49.175288	Table Train dropped successfully.
+2022-12-07 16:39:49.175288	Entered function create_Database_Table.
+2022-12-07 16:39:49.179231	Created / Connected prediction Database successfully!
+2022-12-07 16:39:49.276840	Train Table created successfully!
+2022-12-07 17:17:10.622563	Entered function dropTabel.
+2022-12-07 17:17:11.198612	Table Train dropped successfully.
+2022-12-07 17:17:11.198612	Entered function create_Database_Table.
+2022-12-07 17:17:11.223024	Created / Connected prediction Database successfully!
+2022-12-07 17:17:11.332411	Train Table created successfully!
+2022-12-07 17:23:39.851089	Entered function dropTabel.
+2022-12-07 17:23:41.080516	Table Train dropped successfully.
+2022-12-07 17:23:41.080516	Entered function create_Database_Table.
+2022-12-07 17:23:41.169372	Created / Connected prediction Database successfully!
+2022-12-07 17:23:41.273039	Train Table created successfully!
+2022-12-07 17:23:52.023712	Entered function dropTabel.
+2022-12-07 17:23:52.177011	Table Train dropped successfully.
+2022-12-07 17:23:52.177011	Entered function create_Database_Table.
+2022-12-07 17:23:52.220028	Created / Connected prediction Database successfully!
+2022-12-07 17:23:52.392426	Train Table created successfully!
+2022-12-07 17:26:27.772976	Entered function dropTabel.
+2022-12-07 17:26:29.370690	Table Train dropped successfully.
+2022-12-07 17:26:29.370690	Entered function create_Database_Table.
+2022-12-07 17:26:29.407831	Created / Connected prediction Database successfully!
+2022-12-07 17:26:29.530679	Train Table created successfully!
+2022-12-07 17:28:01.303479	Entered function dropTabel.
+2022-12-07 17:28:01.415901	Table Train dropped successfully.
+2022-12-07 17:28:01.415901	Entered function create_Database_Table.
+2022-12-07 17:28:01.443124	Created / Connected prediction Database successfully!
+2022-12-07 17:28:01.554459	Train Table created successfully!
+2022-12-07 17:34:50.278759	Entered function dropTabel.
+2022-12-07 17:34:50.390740	Table Train dropped successfully.
+2022-12-07 17:34:50.390740	Entered function create_Database_Table.
+2022-12-07 17:34:50.403494	Created / Connected prediction Database successfully!
+2022-12-07 17:34:50.506952	Train Table created successfully!
+2022-12-07 17:35:18.500357	Entered function dropTabel.
+2022-12-07 17:35:18.602903	Table Train dropped successfully.
+2022-12-07 17:35:18.602903	Entered function create_Database_Table.
+2022-12-07 17:35:18.620471	Created / Connected prediction Database successfully!
+2022-12-07 17:35:18.742546	Train Table created successfully!
+2022-12-07 22:51:13.226547	Entered function dropTabel.
+2022-12-07 22:51:13.365168	Table Train dropped successfully.
+2022-12-07 22:51:13.365168	Entered function create_Database_Table.
+2022-12-07 22:51:13.370053	Created / Connected prediction Database successfully!
+2022-12-07 22:51:13.460373	Train Table created successfully!
+2022-12-07 23:17:40.443804	Entered function dropTabel.
+2022-12-07 23:17:40.552801	Table Train dropped successfully.
+2022-12-07 23:17:40.552801	Entered function create_Database_Table.
+2022-12-07 23:17:40.557707	Created / Connected prediction Database successfully!
+2022-12-07 23:17:40.649390	Train Table created successfully!
+2022-12-08 15:09:33.228238	Entered function dropTabel.
+2022-12-08 15:09:33.336361	Table Train dropped successfully.
+2022-12-08 15:09:33.336361	Entered function create_Database_Table.
+2022-12-08 15:09:33.355785	Created / Connected prediction Database successfully!
+2022-12-08 15:09:33.473231	Train Table created successfully!
+2022-12-08 15:11:25.281073	Entered function dropTabel.
+2022-12-08 15:11:25.386319	Table Train dropped successfully.
+2022-12-08 15:11:25.386319	Entered function create_Database_Table.
+2022-12-08 15:11:25.410477	Created / Connected prediction Database successfully!
+2022-12-08 15:11:25.523459	Train Table created successfully!
+2022-12-08 15:11:39.173403	Entered function dropTabel.
+2022-12-08 15:11:39.282229	Table Train dropped successfully.
+2022-12-08 15:11:39.282229	Entered function create_Database_Table.
+2022-12-08 15:11:39.306703	Created / Connected prediction Database successfully!
+2022-12-08 15:11:39.398418	Train Table created successfully!
+2022-12-08 15:34:24.573732	Entered function dropTabel.
+2022-12-08 15:34:24.813598	Table Train dropped successfully.
+2022-12-08 15:34:24.813598	Entered function create_Database_Table.
+2022-12-08 15:34:24.873108	Created / Connected prediction Database successfully!
+2022-12-08 15:34:25.113552	Train Table created successfully!
+2022-12-08 15:41:01.523650	Entered function dropTabel.
+2022-12-08 15:41:01.714091	Table Train dropped successfully.
+2022-12-08 15:41:01.714091	Entered function create_Database_Table.
+2022-12-08 15:41:01.729699	Created / Connected prediction Database successfully!
+2022-12-08 15:41:01.830401	Train Table created successfully!
+2022-12-08 19:01:42.078727	Entered function dropTabel.
+2022-12-08 19:01:42.188053	Table Train dropped successfully.
+2022-12-08 19:01:42.188053	Entered function create_Database_Table.
+2022-12-08 19:01:42.234923	Created / Connected prediction Database successfully!
+2022-12-08 19:01:42.391172	Train Table created successfully!
+2022-12-12 12:04:36.885166	Entered function dropTabel.
+2022-12-12 12:04:37.003428	Table Train dropped successfully.
+2022-12-12 12:04:37.003428	Entered function create_Database_Table.
+2022-12-12 12:04:37.028807	Created / Connected prediction Database successfully!
+2022-12-12 12:04:37.141491	Train Table created successfully!
+2022-12-17 20:04:49.010674	Entered function dropTabel.
+2022-12-17 20:04:49.221026	Table Train dropped successfully.
+2022-12-17 20:04:49.221026	Entered function create_Database_Table.
+2022-12-17 20:04:49.227856	Created / Connected prediction Database successfully!
+2022-12-17 20:04:49.327035	Train Table created successfully!
+2022-12-19 08:55:58.642760	Entered function dropTabel.
+2022-12-19 08:55:58.812890	Table Train dropped successfully.
+2022-12-19 08:55:58.812890	Entered function create_Database_Table.
+2022-12-19 08:55:58.818762	Created / Connected prediction Database successfully!
+2022-12-19 08:55:58.972623	Train Table created successfully!
+2022-12-19 11:30:14.647046	Entered function dropTabel.
+2022-12-19 11:30:14.841702	Table Train dropped successfully.
+2022-12-19 11:30:14.841702	Entered function create_Database_Table.
+2022-12-19 11:30:14.869953	Created / Connected prediction Database successfully!
+2022-12-19 11:30:14.979937	Train Table created successfully!
+2022-12-19 11:34:44.131728	Entered function dropTabel.
+2022-12-19 11:34:44.258668	Table Train dropped successfully.
+2022-12-19 11:34:44.258668	Entered function create_Database_Table.
+2022-12-19 11:34:44.282448	Created / Connected prediction Database successfully!
+2022-12-19 11:34:44.408073	Train Table created successfully!
+2022-12-19 11:50:07.767592	Entered function create_Database_Table.
+2022-12-19 11:50:07.768568	Created / Connected prediction Database successfully!
+2022-12-19 11:50:07.769545	Train Table created successfully!
+2022-12-19 11:50:07.894605	Entered function create_Database_Table.
+2022-12-19 11:50:07.894605	Created / Connected prediction Database successfully!
+2022-12-19 11:50:07.894605	Train Table created successfully!
+2022-12-19 11:50:29.677870	Entered function enter_recordTo_Table.
+2022-12-19 11:50:35.410984	Entered function create_Database_Table.
+2022-12-19 11:50:35.434667	Created / Connected prediction Database successfully!
+2022-12-19 11:50:35.435410	Train Table created successfully!
+2022-12-19 11:51:59.212302	Entered function create_Database_Table.
+2022-12-19 11:51:59.213281	Created / Connected prediction Database successfully!
+2022-12-19 11:51:59.214301	Train Table created successfully!
+2022-12-19 11:52:21.503167	Entered function enter_recordTo_Table.
+2022-12-19 11:52:26.751628	Entered function showTable.
+2022-12-19 11:52:38.343658	Entered function create_Database_Table.
+2022-12-19 11:52:38.344636	Created / Connected prediction Database successfully!
+2022-12-19 11:52:38.346286	Train Table created successfully!
+2022-12-19 12:19:26.901198	Entered function create_Database_Table.
+2022-12-19 12:19:26.906141	Created / Connected prediction Database successfully!
+2022-12-19 12:19:26.906141	Train Table created successfully!
+2022-12-19 12:19:37.404640	Entered function create_Database_Table.
+2022-12-19 12:19:37.404640	Created / Connected prediction Database successfully!
+2022-12-19 12:19:37.405613	Train Table created successfully!
+2022-12-19 12:20:00.497722	Entered function enter_recordTo_Table.
+2022-12-19 12:21:41.647093	Entered function create_Database_Table.
+2022-12-19 12:21:41.709208	Created / Connected prediction Database successfully!
+2022-12-19 12:21:41.709208	Train Table created successfully!
+2022-12-19 12:21:50.970991	Entered function enter_recordTo_Table.
+2022-12-19 15:01:20.929353	Entered function create_Database_Table.
+2022-12-19 15:01:20.965485	Created / Connected prediction Database successfully!
+2022-12-19 15:01:20.970366	Train Table created successfully!
+2022-12-19 15:01:21.067044	Entered function create_Database_Table.
+2022-12-19 15:01:21.067044	Created / Connected prediction Database successfully!
+2022-12-19 15:01:21.068020	Train Table created successfully!
+2022-12-19 15:01:44.587796	Entered function enter_recordTo_Table.
+2022-12-19 15:02:07.758786	Entered function create_Database_Table.
+2022-12-19 15:02:07.779282	Created / Connected prediction Database successfully!
+2022-12-19 15:02:07.781247	Train Table created successfully!
+2022-12-19 15:02:12.246002	Entered function create_Database_Table.
+2022-12-19 15:02:12.246684	Created / Connected prediction Database successfully!
+2022-12-19 15:02:12.248642	Train Table created successfully!
+2022-12-19 15:02:27.439397	Entered function create_Database_Table.
+2022-12-19 15:02:27.440295	Created / Connected prediction Database successfully!
+2022-12-19 15:02:27.440295	Train Table created successfully!
+2022-12-19 15:04:00.748674	Entered function create_Database_Table.
+2022-12-19 15:04:00.749583	Created / Connected prediction Database successfully!
+2022-12-19 15:04:00.750559	Train Table created successfully!
+2022-12-19 15:04:21.194755	Entered function create_Database_Table.
+2022-12-19 15:04:21.195731	Created / Connected prediction Database successfully!
+2022-12-19 15:04:21.197711	Train Table created successfully!
+2022-12-19 15:04:36.650061	Entered function create_Database_Table.
+2022-12-19 15:04:36.650061	Created / Connected prediction Database successfully!
+2022-12-19 15:04:36.651195	Train Table created successfully!
+2022-12-19 15:04:41.754815	Entered function create_Database_Table.
+2022-12-19 15:04:41.755776	Created / Connected prediction Database successfully!
+2022-12-19 15:04:41.757733	Train Table created successfully!
+2022-12-19 15:06:14.174671	Entered function create_Database_Table.
+2022-12-19 15:06:14.175649	Created / Connected prediction Database successfully!
+2022-12-19 15:06:14.176635	Train Table created successfully!
+2022-12-19 15:06:20.939809	Entered function create_Database_Table.
+2022-12-19 15:06:20.940832	Created / Connected prediction Database successfully!
+2022-12-19 15:06:20.942741	Train Table created successfully!
+2022-12-19 15:06:58.849665	Entered function create_Database_Table.
+2022-12-19 15:06:58.850646	Created / Connected prediction Database successfully!
+2022-12-19 15:06:58.852604	Train Table created successfully!
+2022-12-19 15:07:02.841568	Entered function create_Database_Table.
+2022-12-19 15:07:02.842916	Created / Connected prediction Database successfully!
+2022-12-19 15:07:02.843342	Train Table created successfully!
+2022-12-19 15:07:09.996104	Entered function create_Database_Table.
+2022-12-19 15:07:09.996104	Created / Connected prediction Database successfully!
+2022-12-19 15:07:09.998035	Train Table created successfully!
+2022-12-19 15:07:21.432899	Entered function create_Database_Table.
+2022-12-19 15:07:21.433866	Created / Connected prediction Database successfully!
+2022-12-19 15:07:21.435820	Train Table created successfully!
+2022-12-19 15:08:41.748519	Entered function create_Database_Table.
+2022-12-19 15:08:41.749555	Created / Connected prediction Database successfully!
+2022-12-19 15:08:41.751447	Train Table created successfully!
+2022-12-19 15:08:44.697691	Entered function create_Database_Table.
+2022-12-19 15:08:44.698582	Created / Connected prediction Database successfully!
+2022-12-19 15:08:44.701514	Train Table created successfully!
+2022-12-19 15:08:58.958621	Entered function create_Database_Table.
+2022-12-19 15:08:58.959595	Created / Connected prediction Database successfully!
+2022-12-19 15:08:58.961605	Train Table created successfully!
+2022-12-19 15:09:46.680679	Entered function enter_recordTo_Table.
+2022-12-19 15:11:25.036841	Entered function showTable.
+2022-12-19 15:11:37.421328	Entered function create_Database_Table.
+2022-12-19 15:11:37.422317	Created / Connected prediction Database successfully!
+2022-12-19 15:11:37.423287	Train Table created successfully!
+2022-12-19 15:11:56.536278	Entered function create_Database_Table.
+2022-12-19 15:11:56.537565	Created / Connected prediction Database successfully!
+2022-12-19 15:11:56.538156	Train Table created successfully!
+2022-12-19 15:12:01.600375	Entered function dropTabel.
+2022-12-19 15:12:01.709934	Table Train dropped successfully.
+2022-12-19 15:12:01.709934	Entered function create_Database_Table.
+2022-12-19 15:12:01.725370	Created / Connected prediction Database successfully!
+2022-12-19 15:12:01.827262	Train Table created successfully!
+2022-12-19 15:12:03.353714	Entered function create_Database_Table.
+2022-12-19 15:12:03.375189	Created / Connected prediction Database successfully!
+2022-12-19 15:12:03.376167	Train Table created successfully!
+2022-12-19 15:12:04.799617	Entered function showTable.
+2022-12-19 15:12:06.363628	Entered function create_Database_Table.
+2022-12-19 15:12:06.364009	Created / Connected prediction Database successfully!
+2022-12-19 15:12:06.364989	Train Table created successfully!
+2022-12-19 15:46:26.169272	Entered function create_Database_Table.
+2022-12-19 15:46:26.169420	Created / Connected prediction Database successfully!
+2022-12-19 15:46:26.170250	Train Table created successfully!
+2022-12-19 15:46:26.226885	Entered function create_Database_Table.
+2022-12-19 15:46:26.227334	Created / Connected prediction Database successfully!
+2022-12-19 15:46:26.229278	Train Table created successfully!
+2022-12-19 15:46:53.714840	Entered function enter_recordTo_Table.
+2022-12-19 15:47:27.497396	Entered function create_Database_Table.
+2022-12-19 15:47:27.518898	Created / Connected prediction Database successfully!
+2022-12-19 15:47:27.520141	Train Table created successfully!
+2022-12-19 15:47:29.467343	Entered function showTable.
+2022-12-19 15:48:10.510915	Entered function create_Database_Table.
+2022-12-19 15:48:10.512388	Created / Connected prediction Database successfully!
+2022-12-19 15:48:10.513838	Train Table created successfully!
+2022-12-19 15:48:27.998610	Entered function create_Database_Table.
+2022-12-19 15:48:28.000634	Created / Connected prediction Database successfully!
+2022-12-19 15:48:28.001534	Train Table created successfully!
+2022-12-19 15:48:37.537168	Entered function create_Database_Table.
+2022-12-19 15:48:37.537168	Created / Connected prediction Database successfully!
+2022-12-19 15:48:37.539162	Train Table created successfully!
+2022-12-19 15:48:50.802233	Entered function create_Database_Table.
+2022-12-19 15:48:50.802233	Created / Connected prediction Database successfully!
+2022-12-19 15:48:50.803484	Train Table created successfully!
+2022-12-19 15:49:10.429291	Entered function create_Database_Table.
+2022-12-19 15:49:10.431245	Created / Connected prediction Database successfully!
+2022-12-19 15:49:10.432492	Train Table created successfully!
+2022-12-19 15:49:18.718912	Entered function create_Database_Table.
+2022-12-19 15:49:18.719892	Created / Connected prediction Database successfully!
+2022-12-19 15:49:18.721833	Train Table created successfully!
+2022-12-19 15:49:21.996882	Entered function showTable.
+2022-12-19 15:49:24.340588	Entered function create_Database_Table.
+2022-12-19 15:49:24.340588	Created / Connected prediction Database successfully!
+2022-12-19 15:49:24.341565	Train Table created successfully!
+2022-12-19 15:49:26.327373	Entered function dropTabel.
+2022-12-19 15:49:26.588252	Table Train dropped successfully.
+2022-12-19 15:49:26.588252	Entered function create_Database_Table.
+2022-12-19 15:49:26.609843	Created / Connected prediction Database successfully!
+2022-12-19 15:49:26.715200	Train Table created successfully!
+2022-12-19 15:49:28.243423	Entered function create_Database_Table.
+2022-12-19 15:49:28.267852	Created / Connected prediction Database successfully!
+2022-12-19 15:49:28.268823	Train Table created successfully!
+2022-12-19 15:49:29.745480	Entered function showTable.
+2022-12-19 15:49:49.862452	Entered function create_Database_Table.
+2022-12-19 15:49:49.863713	Created / Connected prediction Database successfully!
+2022-12-19 15:49:49.864944	Train Table created successfully!
+2022-12-19 15:51:16.136937	Entered function enter_recordTo_Table.
+2022-12-19 15:58:40.289818	Entered function create_Database_Table.
+2022-12-19 15:58:40.313283	Created / Connected prediction Database successfully!
+2022-12-19 15:58:40.314168	Train Table created successfully!
+2022-12-19 15:58:58.048796	Entered function enter_recordTo_Table.
+2022-12-19 16:01:20.161781	Entered function create_Database_Table.
+2022-12-19 16:01:20.181709	Created / Connected prediction Database successfully!
+2022-12-19 16:01:20.183661	Train Table created successfully!
+2022-12-19 16:01:22.677024	Entered function showTable.
+2022-12-19 16:01:25.633360	Entered function create_Database_Table.
+2022-12-19 16:01:25.635082	Created / Connected prediction Database successfully!
+2022-12-19 16:01:25.637062	Train Table created successfully!
+2022-12-19 16:01:33.214337	Entered function create_Database_Table.
+2022-12-19 16:01:33.214337	Created / Connected prediction Database successfully!
+2022-12-19 16:01:33.215763	Train Table created successfully!
+2022-12-19 16:01:35.868193	Entered function dropTabel.
+2022-12-19 16:01:35.984772	Table Train dropped successfully.
+2022-12-19 16:01:35.984772	Entered function create_Database_Table.
+2022-12-19 16:01:36.004454	Created / Connected prediction Database successfully!
+2022-12-19 16:01:36.109840	Train Table created successfully!
+2022-12-19 16:01:37.536257	Entered function create_Database_Table.
+2022-12-19 16:01:37.566118	Created / Connected prediction Database successfully!
+2022-12-19 16:01:37.567245	Train Table created successfully!
+2022-12-19 16:01:38.824411	Entered function showTable.
+2022-12-19 16:01:40.910286	Entered function create_Database_Table.
+2022-12-19 16:01:40.911518	Created / Connected prediction Database successfully!
+2022-12-19 16:01:40.913220	Train Table created successfully!
+2022-12-19 21:23:57.773411	Entered function create_Database_Table.
+2022-12-19 21:23:57.804950	Created / Connected prediction Database successfully!
+2022-12-19 21:23:57.831998	Train Table created successfully!
+2022-12-19 21:23:58.677981	Entered function create_Database_Table.
+2022-12-19 21:23:58.679091	Created / Connected prediction Database successfully!
+2022-12-19 21:23:58.679936	Train Table created successfully!
+2022-12-19 21:24:05.297640	Entered function create_Database_Table.
+2022-12-19 21:24:05.298702	Created / Connected prediction Database successfully!
+2022-12-19 21:24:05.299591	Train Table created successfully!
+2022-12-19 21:24:23.280115	Entered function create_Database_Table.
+2022-12-19 21:24:23.281094	Created / Connected prediction Database successfully!
+2022-12-19 21:24:23.283059	Train Table created successfully!
+2022-12-19 21:24:39.132555	Entered function create_Database_Table.
+2022-12-19 21:24:39.134455	Created / Connected prediction Database successfully!
+2022-12-19 21:24:39.136412	Train Table created successfully!
+2022-12-19 21:25:18.666413	Entered function enter_recordTo_Table.
+2022-12-19 21:25:27.126819	Entered function showTable.
+2022-12-19 21:25:31.280906	Entered function create_Database_Table.
+2022-12-19 21:25:31.281900	Created / Connected prediction Database successfully!
+2022-12-19 21:25:31.283841	Train Table created successfully!
+2022-12-19 21:25:56.568840	Entered function create_Database_Table.
+2022-12-19 21:25:56.569813	Created / Connected prediction Database successfully!
+2022-12-19 21:25:56.571404	Train Table created successfully!
+2022-12-19 21:26:23.899239	Entered function enter_recordTo_Table.
+2022-12-19 21:26:31.124338	Entered function create_Database_Table.
+2022-12-19 21:26:31.184484	Created / Connected prediction Database successfully!
+2022-12-19 21:26:31.186368	Train Table created successfully!
+2022-12-19 21:27:33.030814	Entered function enter_recordTo_Table.
+2022-12-20 01:12:10.695574	Entered function enter_recordTo_Table.
+2022-12-20 01:12:45.123732	Entered function create_Database_Table.
+2022-12-20 01:12:45.150091	Created / Connected prediction Database successfully!
+2022-12-20 01:12:45.151069	Train Table created successfully!
+2022-12-20 01:12:54.509401	Entered function create_Database_Table.
+2022-12-20 01:12:54.510380	Created / Connected prediction Database successfully!
+2022-12-20 01:12:54.510380	Train Table created successfully!
+2022-12-20 01:13:08.180370	Entered function create_Database_Table.
+2022-12-20 01:13:08.181204	Created / Connected prediction Database successfully!
+2022-12-20 01:13:08.183138	Train Table created successfully!
+2022-12-20 01:13:23.355170	Entered function create_Database_Table.
+2022-12-20 01:13:23.509276	Created / Connected prediction Database successfully!
+2022-12-20 01:13:23.512257	Train Table created successfully!
+2022-12-20 01:13:45.504082	Entered function showTable.
+2022-12-20 01:14:28.017853	Entered function create_Database_Table.
+2022-12-20 01:14:28.017853	Created / Connected prediction Database successfully!
+2022-12-20 01:14:28.019076	Train Table created successfully!
+2022-12-20 01:15:10.911810	Entered function enter_recordTo_Table.
+2022-12-20 01:15:44.615878	Entered function create_Database_Table.
+2022-12-20 01:15:44.636445	Created / Connected prediction Database successfully!
+2022-12-20 01:15:44.638338	Train Table created successfully!
+2022-12-20 01:16:17.681157	Entered function enter_recordTo_Table.
+2022-12-20 01:16:49.648894	Entered function create_Database_Table.
+2022-12-20 01:16:49.667950	Created / Connected prediction Database successfully!
+2022-12-20 01:16:49.668931	Train Table created successfully!
+2022-12-20 01:17:21.257218	Entered function enter_recordTo_Table.
+2022-12-20 01:18:10.625718	Entered function create_Database_Table.
+2022-12-20 01:18:10.644541	Created / Connected prediction Database successfully!
+2022-12-20 01:18:10.646233	Train Table created successfully!
+2022-12-20 01:18:40.312545	Entered function enter_recordTo_Table.
+2022-12-20 01:19:25.676369	Entered function create_Database_Table.
+2022-12-20 01:19:25.697845	Created / Connected prediction Database successfully!
+2022-12-20 01:19:25.796444	Train Table created successfully!
+2022-12-20 01:21:25.193665	Entered function enter_recordTo_Table.
+2022-12-20 01:22:02.068945	Entered function create_Database_Table.
+2022-12-20 01:22:02.090955	Created / Connected prediction Database successfully!
+2022-12-20 01:22:02.092836	Train Table created successfully!
+2022-12-20 01:22:35.444693	Entered function enter_recordTo_Table.
+2022-12-20 01:23:13.053188	Entered function create_Database_Table.
+2022-12-20 01:23:13.073734	Created / Connected prediction Database successfully!
+2022-12-20 01:23:13.074689	Train Table created successfully!
+2022-12-20 01:23:47.768926	Entered function enter_recordTo_Table.
+2022-12-20 01:23:53.270676	Entered function create_Database_Table.
+2022-12-20 01:23:53.295083	Created / Connected prediction Database successfully!
+2022-12-20 01:23:53.296039	Train Table created successfully!
+2022-12-20 01:24:23.229229	Entered function enter_recordTo_Table.
+2022-12-20 10:30:34.447018	Entered function create_Database_Table.
+2022-12-20 10:30:34.507563	Created / Connected prediction Database successfully!
+2022-12-20 10:30:34.518303	Train Table created successfully!
+2022-12-20 10:30:35.060290	Entered function create_Database_Table.
+2022-12-20 10:30:35.061440	Created / Connected prediction Database successfully!
+2022-12-20 10:30:35.063196	Train Table created successfully!
+2022-12-20 10:31:34.722457	Entered function enter_recordTo_Table.
+2022-12-20 10:32:00.747766	Entered function create_Database_Table.
+2022-12-20 10:32:00.856909	Created / Connected prediction Database successfully!
+2022-12-20 10:32:00.857883	Train Table created successfully!
+2022-12-20 10:32:28.393855	Entered function enter_recordTo_Table.
+2022-12-20 10:32:43.966177	Entered function showTable.
+2022-12-20 10:33:05.110370	Entered function create_Database_Table.
+2022-12-20 10:33:05.111368	Created / Connected prediction Database successfully!
+2022-12-20 10:33:05.112342	Train Table created successfully!
+2022-12-20 10:34:24.493814	Entered function dropTabel.
+2022-12-20 10:34:24.673369	Table Train dropped successfully.
+2022-12-20 10:34:24.673369	Entered function create_Database_Table.
+2022-12-20 10:34:24.694164	Created / Connected prediction Database successfully!
+2022-12-20 10:34:24.910748	Train Table created successfully!
+2022-12-20 10:34:26.955970	Entered function create_Database_Table.
+2022-12-20 10:34:26.983443	Created / Connected prediction Database successfully!
+2022-12-20 10:34:26.985338	Train Table created successfully!
+2022-12-20 10:34:29.137540	Entered function showTable.
+2022-12-20 10:39:46.231781	Entered function create_Database_Table.
+2022-12-20 10:39:46.232821	Created / Connected prediction Database successfully!
+2022-12-20 10:39:46.233797	Train Table created successfully!
+2022-12-20 10:40:01.913447	Entered function create_Database_Table.
+2022-12-20 10:40:01.914571	Created / Connected prediction Database successfully!
+2022-12-20 10:40:01.915418	Train Table created successfully!
+2022-12-20 10:41:05.667141	Entered function enter_recordTo_Table.
+2022-12-20 10:41:16.183507	Entered function create_Database_Table.
+2022-12-20 10:41:16.410439	Created / Connected prediction Database successfully!
+2022-12-20 10:41:16.411970	Train Table created successfully!
+2022-12-20 10:43:20.028349	Entered function enter_recordTo_Table.
+2022-12-20 10:44:45.760150	Entered function enter_recordTo_Table.
+2022-12-20 10:44:52.651616	Entered function create_Database_Table.
+2022-12-20 10:44:52.672126	Created / Connected prediction Database successfully!
+2022-12-20 10:44:52.674009	Train Table created successfully!
+2022-12-20 10:45:28.177705	Entered function enter_recordTo_Table.
+2022-12-20 10:45:33.783925	Entered function create_Database_Table.
+2022-12-20 10:45:33.807249	Created / Connected prediction Database successfully!
+2022-12-20 10:45:33.808226	Train Table created successfully!
+2022-12-20 10:46:06.491225	Entered function enter_recordTo_Table.
+2022-12-20 10:46:15.525807	Entered function create_Database_Table.
+2022-12-20 10:46:15.563889	Created / Connected prediction Database successfully!
+2022-12-20 10:46:15.564927	Train Table created successfully!
+2022-12-20 10:46:38.521795	Entered function enter_recordTo_Table.
+2022-12-20 10:48:46.464228	Entered function showTable.
+2022-12-20 10:48:50.378146	Entered function create_Database_Table.
+2022-12-20 10:48:50.379936	Created / Connected prediction Database successfully!
+2022-12-20 10:48:50.381095	Train Table created successfully!
+2022-12-20 11:15:05.562691	Entered function create_Database_Table.
+2022-12-20 11:15:05.563590	Created / Connected prediction Database successfully!
+2022-12-20 11:15:05.565542	Train Table created successfully!
+2022-12-20 11:15:16.133249	Entered function create_Database_Table.
+2022-12-20 11:15:16.135200	Created / Connected prediction Database successfully!
+2022-12-20 11:15:16.136194	Train Table created successfully!
+2022-12-21 21:05:17.624243	Entered function create_Database_Table.
+2022-12-21 21:05:17.644751	Created / Connected prediction Database successfully!
+2022-12-21 21:05:17.649634	Train Table created successfully!
+2022-12-21 21:05:38.684455	Entered function create_Database_Table.
+2022-12-21 21:05:38.684455	Created / Connected prediction Database successfully!
+2022-12-21 21:05:38.685438	Train Table created successfully!
+2022-12-21 21:05:57.536188	Entered function enter_recordTo_Table.
+2022-12-21 21:06:17.888998	Entered function create_Database_Table.
+2022-12-21 21:06:17.895950	Created / Connected prediction Database successfully!
+2022-12-21 21:06:17.896801	Train Table created successfully!
+2022-12-21 21:06:19.873043	Entered function showTable.
+2022-12-21 21:06:43.550522	Entered function create_Database_Table.
+2022-12-21 21:06:43.551683	Created / Connected prediction Database successfully!
+2022-12-21 21:06:43.552979	Train Table created successfully!
+2022-12-21 21:08:05.101085	Entered function create_Database_Table.
+2022-12-21 21:08:05.103041	Created / Connected prediction Database successfully!
+2022-12-21 21:08:05.104990	Train Table created successfully!
+2022-12-21 21:08:09.080312	Entered function dropTabel.
+2022-12-21 21:08:09.605670	Table Train dropped successfully.
+2022-12-21 21:08:09.605670	Entered function create_Database_Table.
+2022-12-21 21:08:09.615433	Created / Connected prediction Database successfully!
+2022-12-21 21:08:09.721875	Train Table created successfully!
+2022-12-21 21:08:11.542078	Entered function create_Database_Table.
+2022-12-21 21:08:11.566599	Created / Connected prediction Database successfully!
+2022-12-21 21:08:11.567463	Train Table created successfully!
+2022-12-21 21:08:13.487261	Entered function showTable.
+2022-12-21 21:08:16.905993	Entered function create_Database_Table.
+2022-12-21 21:08:16.906974	Created / Connected prediction Database successfully!
+2022-12-21 21:08:16.907947	Train Table created successfully!
+2022-12-21 21:08:23.450585	Entered function create_Database_Table.
+2022-12-21 21:08:23.451370	Created / Connected prediction Database successfully!
+2022-12-21 21:08:23.452328	Train Table created successfully!
+2022-12-21 21:19:33.450974	Entered function enter_recordTo_Table.
+2022-12-21 21:19:53.364619	Entered function create_Database_Table.
+2022-12-21 21:19:53.385928	Created / Connected prediction Database successfully!
+2022-12-21 21:19:53.387152	Train Table created successfully!
+2022-12-21 21:20:16.768759	Entered function create_Database_Table.
+2022-12-21 21:20:16.768759	Created / Connected prediction Database successfully!
+2022-12-21 21:20:16.769922	Train Table created successfully!
+2022-12-21 21:20:43.526429	Entered function enter_recordTo_Table.
+2022-12-21 21:21:07.444431	Entered function create_Database_Table.
+2022-12-21 21:21:07.473737	Created / Connected prediction Database successfully!
+2022-12-21 21:21:07.475838	Train Table created successfully!
+2022-12-21 21:21:35.291997	Entered function enter_recordTo_Table.
+2022-12-21 21:21:57.045979	Entered function create_Database_Table.
+2022-12-21 21:21:57.073319	Created / Connected prediction Database successfully!
+2022-12-21 21:21:57.074295	Train Table created successfully!
+2022-12-21 21:22:27.320506	Entered function enter_recordTo_Table.
+2022-12-21 21:23:22.137152	Entered function create_Database_Table.
+2022-12-21 21:23:22.158702	Created / Connected prediction Database successfully!
+2022-12-21 21:23:22.159794	Train Table created successfully!
+2022-12-21 21:23:24.436496	Entered function showTable.
+2022-12-21 21:24:36.200521	Entered function create_Database_Table.
+2022-12-21 21:24:36.201001	Created / Connected prediction Database successfully!
+2022-12-21 21:24:36.201975	Train Table created successfully!
+2022-12-21 21:24:38.737540	Entered function dropTabel.
+2022-12-21 21:24:38.876138	Table Train dropped successfully.
+2022-12-21 21:24:38.876138	Entered function create_Database_Table.
+2022-12-21 21:24:38.903476	Created / Connected prediction Database successfully!
+2022-12-21 21:24:39.023592	Train Table created successfully!
+2022-12-21 21:24:41.085046	Entered function create_Database_Table.
+2022-12-21 21:24:41.106470	Created / Connected prediction Database successfully!
+2022-12-21 21:24:41.108857	Train Table created successfully!
+2022-12-21 21:24:42.628824	Entered function showTable.
+2022-12-21 21:24:45.867874	Entered function create_Database_Table.
+2022-12-21 21:24:45.868860	Created / Connected prediction Database successfully!
+2022-12-21 21:24:45.869847	Train Table created successfully!
+2022-12-21 21:24:51.310890	Entered function create_Database_Table.
+2022-12-21 21:24:51.312842	Created / Connected prediction Database successfully!
+2022-12-21 21:24:51.315782	Train Table created successfully!
+2022-12-21 21:24:58.836162	Entered function create_Database_Table.
+2022-12-21 21:24:58.837199	Created / Connected prediction Database successfully!
+2022-12-21 21:24:58.839064	Train Table created successfully!
+2022-12-21 21:25:22.588737	Entered function create_Database_Table.
+2022-12-21 21:25:22.590686	Created / Connected prediction Database successfully!
+2022-12-21 21:25:22.592319	Train Table created successfully!
+2022-12-21 21:25:37.980163	Entered function create_Database_Table.
+2022-12-21 21:25:37.980790	Created / Connected prediction Database successfully!
+2022-12-21 21:25:37.982744	Train Table created successfully!
+2022-12-21 21:26:54.993945	Entered function create_Database_Table.
+2022-12-21 21:26:54.995383	Created / Connected prediction Database successfully!
+2022-12-21 21:26:54.996856	Train Table created successfully!
+2022-12-22 15:23:41.047081	Entered function create_Database_Table.
+2022-12-22 15:23:41.538750	Created / Connected prediction Database successfully!
+2022-12-22 15:23:42.214523	Train Table created successfully!
+2022-12-22 15:23:42.587541	Entered function create_Database_Table.
+2022-12-22 15:23:42.707703	Created / Connected prediction Database successfully!
+2022-12-22 15:23:42.709643	Train Table created successfully!
+2022-12-22 15:24:37.368158	Entered function enter_recordTo_Table.
+2023-01-18 00:27:04.398977	Entered function create_Database_Table.
+2023-01-18 00:27:04.589281	Created / Connected prediction Database successfully!
+2023-01-18 00:27:04.599279	Train Table created successfully!
+2023-01-18 00:27:11.259531	Entered function showTable.
+2023-01-18 00:27:55.977463	Entered function create_Database_Table.
+2023-01-18 00:27:55.978493	Created / Connected prediction Database successfully!
+2023-01-18 00:27:55.980386	Train Table created successfully!
+2023-01-18 00:28:44.773988	Entered function enter_recordTo_Table.
+2023-01-26 19:12:50.415185	Entered function create_Database_Table.
+2023-01-26 19:12:50.516187	Created / Connected prediction Database successfully!
+2023-01-26 19:12:50.524760	Train Table created successfully!
+2023-02-16 23:47:14.255314	Entered function create_Database_Table.
+2023-02-16 23:47:14.723310	Created / Connected prediction Database successfully!
+2023-02-16 23:47:14.732311	Train Table created successfully!
+2023-02-16 23:47:15.181312	Entered function create_Database_Table.
+2023-02-16 23:47:15.181312	Created / Connected prediction Database successfully!
+2023-02-16 23:47:15.181312	Train Table created successfully!
+2023-02-16 23:47:30.186002	Entered function create_Database_Table.
+2023-02-16 23:47:30.186002	Created / Connected prediction Database successfully!
+2023-02-16 23:47:30.186002	Train Table created successfully!
+2023-02-16 23:47:31.039822	Entered function dropTabel.
+2023-02-16 23:47:31.351878	Table Train dropped successfully.
+2023-02-16 23:47:31.351878	Entered function create_Database_Table.
+2023-02-16 23:47:31.356878	Created / Connected prediction Database successfully!
+2023-02-16 23:47:31.544384	Train Table created successfully!
+2023-02-16 23:47:32.430446	Entered function create_Database_Table.
+2023-02-16 23:47:32.434446	Created / Connected prediction Database successfully!
+2023-02-16 23:47:32.434446	Train Table created successfully!
+2023-02-16 23:50:37.477773	Entered function create_Database_Table.
+2023-02-16 23:50:37.482798	Created / Connected prediction Database successfully!
+2023-02-16 23:50:37.482798	Train Table created successfully!
+2023-02-16 23:50:41.283888	Entered function create_Database_Table.
+2023-02-16 23:50:41.283888	Created / Connected prediction Database successfully!
+2023-02-16 23:50:41.283888	Train Table created successfully!
+2023-02-16 23:50:50.464163	Entered function create_Database_Table.
+2023-02-16 23:50:50.465153	Created / Connected prediction Database successfully!
+2023-02-16 23:50:50.465153	Train Table created successfully!
+2023-02-16 23:51:25.077681	Entered function create_Database_Table.
+2023-02-16 23:51:25.077681	Created / Connected prediction Database successfully!
+2023-02-16 23:51:25.078682	Train Table created successfully!
+2023-02-16 23:51:59.577070	Entered function create_Database_Table.
+2023-02-16 23:51:59.577070	Created / Connected prediction Database successfully!
+2023-02-16 23:51:59.578075	Train Table created successfully!
+2023-02-16 23:53:50.230279	Entered function create_Database_Table.
+2023-02-16 23:53:50.230279	Created / Connected prediction Database successfully!
+2023-02-16 23:53:50.231245	Train Table created successfully!
+2023-02-16 23:54:12.933572	Entered function showTable.
+2023-02-16 23:54:14.368097	Entered function create_Database_Table.
+2023-02-16 23:54:14.368097	Created / Connected prediction Database successfully!
+2023-02-16 23:54:14.368097	Train Table created successfully!
+2023-02-16 23:54:18.236485	Entered function create_Database_Table.
+2023-02-16 23:54:18.236485	Created / Connected prediction Database successfully!
+2023-02-16 23:54:18.236485	Train Table created successfully!
+2023-02-16 23:54:20.392282	Entered function create_Database_Table.
+2023-02-16 23:54:20.393279	Created / Connected prediction Database successfully!
+2023-02-16 23:54:20.393279	Train Table created successfully!
+2023-02-16 23:54:22.984568	Entered function create_Database_Table.
+2023-02-16 23:54:22.985576	Created / Connected prediction Database successfully!
+2023-02-16 23:54:22.985576	Train Table created successfully!
+2023-02-16 23:54:57.381259	Entered function showTable.
+2023-02-16 23:56:37.458160	Entered function create_Database_Table.
+2023-02-16 23:56:37.499142	Created / Connected prediction Database successfully!
+2023-02-16 23:56:37.499142	Train Table created successfully!
+2023-02-16 23:56:39.550243	Entered function create_Database_Table.
+2023-02-16 23:56:39.550243	Created / Connected prediction Database successfully!
+2023-02-16 23:56:39.550243	Train Table created successfully!
+2023-02-16 23:56:41.283906	Entered function create_Database_Table.
+2023-02-16 23:56:41.284906	Created / Connected prediction Database successfully!
+2023-02-16 23:56:41.284906	Train Table created successfully!
+2023-02-16 23:58:14.206162	Entered function create_Database_Table.
+2023-02-16 23:58:14.206162	Created / Connected prediction Database successfully!
+2023-02-16 23:58:14.206162	Train Table created successfully!
+2023-02-16 23:58:15.934797	Entered function create_Database_Table.
+2023-02-16 23:58:15.935798	Created / Connected prediction Database successfully!
+2023-02-16 23:58:15.935798	Train Table created successfully!
+2023-02-16 23:58:16.606681	Entered function create_Database_Table.
+2023-02-16 23:58:16.607660	Created / Connected prediction Database successfully!
+2023-02-16 23:58:16.607660	Train Table created successfully!
+2023-02-16 23:58:16.786629	Entered function create_Database_Table.
+2023-02-16 23:58:16.786629	Created / Connected prediction Database successfully!
+2023-02-16 23:58:16.787658	Train Table created successfully!
+2023-02-16 23:58:16.995635	Entered function create_Database_Table.
+2023-02-16 23:58:16.995635	Created / Connected prediction Database successfully!
+2023-02-16 23:58:16.996633	Train Table created successfully!
+2023-02-16 23:58:17.207636	Entered function create_Database_Table.
+2023-02-16 23:58:17.208634	Created / Connected prediction Database successfully!
+2023-02-16 23:58:17.208634	Train Table created successfully!
+2023-02-16 23:58:23.279793	Entered function showTable.
+2023-02-16 23:59:26.150174	Entered function create_Database_Table.
+2023-02-16 23:59:26.150174	Created / Connected prediction Database successfully!
+2023-02-16 23:59:26.150174	Train Table created successfully!
+2023-02-16 23:59:26.998278	Entered function create_Database_Table.
+2023-02-16 23:59:26.998278	Created / Connected prediction Database successfully!
+2023-02-16 23:59:26.999267	Train Table created successfully!
+2023-02-16 23:59:27.811269	Entered function create_Database_Table.
+2023-02-16 23:59:27.811269	Created / Connected prediction Database successfully!
+2023-02-16 23:59:27.811269	Train Table created successfully!
+2023-02-16 23:59:28.041024	Entered function create_Database_Table.
+2023-02-16 23:59:28.042003	Created / Connected prediction Database successfully!
+2023-02-16 23:59:28.042003	Train Table created successfully!
+2023-02-16 23:59:28.276998	Entered function create_Database_Table.
+2023-02-16 23:59:28.276998	Created / Connected prediction Database successfully!
+2023-02-16 23:59:28.276998	Train Table created successfully!
+2023-02-16 23:59:28.539965	Entered function create_Database_Table.
+2023-02-16 23:59:28.539965	Created / Connected prediction Database successfully!
+2023-02-16 23:59:28.539965	Train Table created successfully!
+2023-02-16 23:59:28.949000	Entered function create_Database_Table.
+2023-02-16 23:59:28.949000	Created / Connected prediction Database successfully!
+2023-02-16 23:59:28.949961	Train Table created successfully!
+2023-02-17 00:00:06.775103	Entered function create_Database_Table.
+2023-02-17 00:00:06.775103	Created / Connected prediction Database successfully!
+2023-02-17 00:00:06.775103	Train Table created successfully!
+2023-02-17 00:00:07.699609	Entered function create_Database_Table.
+2023-02-17 00:00:07.699609	Created / Connected prediction Database successfully!
+2023-02-17 00:00:07.700613	Train Table created successfully!
+2023-02-17 00:00:08.529625	Entered function create_Database_Table.
+2023-02-17 00:00:08.529625	Created / Connected prediction Database successfully!
+2023-02-17 00:00:08.529625	Train Table created successfully!
+2023-02-17 00:00:09.099611	Entered function create_Database_Table.
+2023-02-17 00:00:09.099611	Created / Connected prediction Database successfully!
+2023-02-17 00:00:09.099611	Train Table created successfully!
+2023-02-17 00:00:09.416611	Entered function create_Database_Table.
+2023-02-17 00:00:09.417633	Created / Connected prediction Database successfully!
+2023-02-17 00:00:09.418613	Train Table created successfully!
+2023-02-17 00:00:10.042990	Entered function create_Database_Table.
+2023-02-17 00:00:10.042990	Created / Connected prediction Database successfully!
+2023-02-17 00:00:10.042990	Train Table created successfully!
+2023-02-17 00:00:10.775967	Entered function create_Database_Table.
+2023-02-17 00:00:10.775967	Created / Connected prediction Database successfully!
+2023-02-17 00:00:10.775967	Train Table created successfully!
+2023-02-17 00:00:11.133964	Entered function create_Database_Table.
+2023-02-17 00:00:11.133964	Created / Connected prediction Database successfully!
+2023-02-17 00:00:11.134964	Train Table created successfully!
+2023-02-17 00:00:11.556963	Entered function create_Database_Table.
+2023-02-17 00:00:11.556963	Created / Connected prediction Database successfully!
+2023-02-17 00:00:11.556963	Train Table created successfully!
+2023-02-17 00:00:11.922962	Entered function create_Database_Table.
+2023-02-17 00:00:11.922962	Created / Connected prediction Database successfully!
+2023-02-17 00:00:11.922962	Train Table created successfully!
+2023-02-17 00:00:12.186966	Entered function create_Database_Table.
+2023-02-17 00:00:12.186966	Created / Connected prediction Database successfully!
+2023-02-17 00:00:12.188010	Train Table created successfully!
+2023-02-17 00:00:12.445013	Entered function create_Database_Table.
+2023-02-17 00:00:12.445013	Created / Connected prediction Database successfully!
+2023-02-17 00:00:12.445973	Train Table created successfully!
+2023-02-17 00:00:12.674853	Entered function create_Database_Table.
+2023-02-17 00:00:12.674853	Created / Connected prediction Database successfully!
+2023-02-17 00:00:12.675898	Train Table created successfully!
+2023-02-17 00:00:12.885853	Entered function create_Database_Table.
+2023-02-17 00:00:12.885853	Created / Connected prediction Database successfully!
+2023-02-17 00:00:12.885853	Train Table created successfully!
+2023-02-17 00:00:13.147982	Entered function create_Database_Table.
+2023-02-17 00:00:13.148980	Created / Connected prediction Database successfully!
+2023-02-17 00:00:13.148980	Train Table created successfully!
+2023-02-17 00:00:13.363969	Entered function create_Database_Table.
+2023-02-17 00:00:13.363969	Created / Connected prediction Database successfully!
+2023-02-17 00:00:13.364941	Train Table created successfully!
+2023-02-17 00:00:13.579941	Entered function create_Database_Table.
+2023-02-17 00:00:13.580941	Created / Connected prediction Database successfully!
+2023-02-17 00:00:13.580941	Train Table created successfully!
+2023-02-17 00:00:13.830944	Entered function create_Database_Table.
+2023-02-17 00:00:13.830944	Created / Connected prediction Database successfully!
+2023-02-17 00:00:13.830944	Train Table created successfully!
+2023-02-17 00:00:14.083989	Entered function create_Database_Table.
+2023-02-17 00:00:14.083989	Created / Connected prediction Database successfully!
+2023-02-17 00:00:14.084973	Train Table created successfully!
+2023-02-17 00:00:14.308943	Entered function create_Database_Table.
+2023-02-17 00:00:14.308943	Created / Connected prediction Database successfully!
+2023-02-17 00:00:14.308943	Train Table created successfully!
+2023-02-17 00:00:14.521980	Entered function create_Database_Table.
+2023-02-17 00:00:14.522947	Created / Connected prediction Database successfully!
+2023-02-17 00:00:14.522947	Train Table created successfully!
+2023-02-17 00:00:18.899179	Entered function create_Database_Table.
+2023-02-17 00:00:18.899179	Created / Connected prediction Database successfully!
+2023-02-17 00:00:18.899179	Train Table created successfully!
+2023-02-17 00:01:39.630088	Entered function create_Database_Table.
+2023-02-17 00:01:39.630088	Created / Connected prediction Database successfully!
+2023-02-17 00:01:39.631114	Train Table created successfully!
+2023-02-17 00:01:40.637090	Entered function create_Database_Table.
+2023-02-17 00:01:40.637090	Created / Connected prediction Database successfully!
+2023-02-17 00:01:40.637090	Train Table created successfully!
+2023-02-17 00:01:40.945175	Entered function create_Database_Table.
+2023-02-17 00:01:40.946178	Created / Connected prediction Database successfully!
+2023-02-17 00:01:40.946178	Train Table created successfully!
+2023-02-17 00:01:41.419298	Entered function create_Database_Table.
+2023-02-17 00:01:41.419298	Created / Connected prediction Database successfully!
+2023-02-17 00:01:41.419298	Train Table created successfully!
+2023-02-17 00:01:41.708468	Entered function create_Database_Table.
+2023-02-17 00:01:41.708468	Created / Connected prediction Database successfully!
+2023-02-17 00:01:41.708468	Train Table created successfully!
+2023-02-17 00:01:42.144737	Entered function create_Database_Table.
+2023-02-17 00:01:42.144737	Created / Connected prediction Database successfully!
+2023-02-17 00:01:42.145750	Train Table created successfully!
+2023-02-17 00:01:42.711762	Entered function create_Database_Table.
+2023-02-17 00:01:42.711762	Created / Connected prediction Database successfully!
+2023-02-17 00:01:42.711762	Train Table created successfully!
+2023-02-17 00:01:43.061755	Entered function create_Database_Table.
+2023-02-17 00:01:43.061755	Created / Connected prediction Database successfully!
+2023-02-17 00:01:43.062754	Train Table created successfully!
+2023-02-17 00:01:43.365753	Entered function create_Database_Table.
+2023-02-17 00:01:43.365753	Created / Connected prediction Database successfully!
+2023-02-17 00:01:43.365753	Train Table created successfully!
+2023-02-17 00:01:43.709756	Entered function create_Database_Table.
+2023-02-17 00:01:43.709756	Created / Connected prediction Database successfully!
+2023-02-17 00:01:43.710757	Train Table created successfully!
+2023-02-17 00:01:43.978756	Entered function create_Database_Table.
+2023-02-17 00:01:43.979753	Created / Connected prediction Database successfully!
+2023-02-17 00:01:43.979753	Train Table created successfully!
+2023-02-17 00:01:44.259753	Entered function create_Database_Table.
+2023-02-17 00:01:44.259753	Created / Connected prediction Database successfully!
+2023-02-17 00:01:44.259753	Train Table created successfully!
+2023-02-17 00:01:44.748755	Entered function create_Database_Table.
+2023-02-17 00:01:44.748755	Created / Connected prediction Database successfully!
+2023-02-17 00:01:44.748755	Train Table created successfully!
+2023-02-17 00:01:45.003752	Entered function create_Database_Table.
+2023-02-17 00:01:45.003752	Created / Connected prediction Database successfully!
+2023-02-17 00:01:45.003752	Train Table created successfully!
+2023-02-17 00:01:45.296758	Entered function create_Database_Table.
+2023-02-17 00:01:45.296758	Created / Connected prediction Database successfully!
+2023-02-17 00:01:45.296758	Train Table created successfully!
+2023-02-17 00:01:45.774756	Entered function create_Database_Table.
+2023-02-17 00:01:45.775758	Created / Connected prediction Database successfully!
+2023-02-17 00:01:45.775758	Train Table created successfully!
+2023-02-17 00:01:46.057754	Entered function create_Database_Table.
+2023-02-17 00:01:46.057754	Created / Connected prediction Database successfully!
+2023-02-17 00:01:46.057754	Train Table created successfully!
+2023-02-17 00:01:46.286756	Entered function create_Database_Table.
+2023-02-17 00:01:46.287757	Created / Connected prediction Database successfully!
+2023-02-17 00:01:46.287757	Train Table created successfully!
+2023-02-17 00:01:46.564755	Entered function create_Database_Table.
+2023-02-17 00:01:46.564755	Created / Connected prediction Database successfully!
+2023-02-17 00:01:46.564755	Train Table created successfully!
+2023-02-17 00:01:46.794755	Entered function create_Database_Table.
+2023-02-17 00:01:46.794755	Created / Connected prediction Database successfully!
+2023-02-17 00:01:46.794755	Train Table created successfully!
+2023-02-17 00:01:47.121755	Entered function create_Database_Table.
+2023-02-17 00:01:47.121755	Created / Connected prediction Database successfully!
+2023-02-17 00:01:47.121755	Train Table created successfully!
+2023-02-17 00:01:47.355753	Entered function create_Database_Table.
+2023-02-17 00:01:47.356753	Created / Connected prediction Database successfully!
+2023-02-17 00:01:47.356753	Train Table created successfully!
+2023-02-17 00:01:47.670755	Entered function create_Database_Table.
+2023-02-17 00:01:47.671753	Created / Connected prediction Database successfully!
+2023-02-17 00:01:47.671753	Train Table created successfully!
+2023-02-17 00:01:47.924798	Entered function create_Database_Table.
+2023-02-17 00:01:47.924798	Created / Connected prediction Database successfully!
+2023-02-17 00:01:47.924798	Train Table created successfully!
+2023-02-17 00:01:48.180794	Entered function create_Database_Table.
+2023-02-17 00:01:48.180794	Created / Connected prediction Database successfully!
+2023-02-17 00:01:48.180794	Train Table created successfully!
+2023-02-17 00:01:48.393756	Entered function create_Database_Table.
+2023-02-17 00:01:48.394756	Created / Connected prediction Database successfully!
+2023-02-17 00:01:48.394756	Train Table created successfully!
+2023-02-17 00:01:48.611756	Entered function create_Database_Table.
+2023-02-17 00:01:48.611756	Created / Connected prediction Database successfully!
+2023-02-17 00:01:48.611756	Train Table created successfully!
+2023-02-17 00:01:48.833772	Entered function create_Database_Table.
+2023-02-17 00:01:48.833772	Created / Connected prediction Database successfully!
+2023-02-17 00:01:48.833772	Train Table created successfully!
+2023-02-17 00:01:53.611094	Entered function create_Database_Table.
+2023-02-17 00:01:53.611094	Created / Connected prediction Database successfully!
+2023-02-17 00:01:53.612138	Train Table created successfully!
+2023-02-17 00:01:54.374751	Entered function create_Database_Table.
+2023-02-17 00:01:54.375791	Created / Connected prediction Database successfully!
+2023-02-17 00:01:54.375791	Train Table created successfully!
+2023-02-17 00:01:54.932808	Entered function create_Database_Table.
+2023-02-17 00:01:54.932808	Created / Connected prediction Database successfully!
+2023-02-17 00:01:54.933851	Train Table created successfully!
+2023-02-17 00:01:55.225808	Entered function create_Database_Table.
+2023-02-17 00:01:55.226811	Created / Connected prediction Database successfully!
+2023-02-17 00:01:55.226811	Train Table created successfully!
+2023-02-17 00:01:55.474808	Entered function create_Database_Table.
+2023-02-17 00:01:55.474808	Created / Connected prediction Database successfully!
+2023-02-17 00:01:55.474808	Train Table created successfully!
+2023-02-17 00:01:55.835813	Entered function create_Database_Table.
+2023-02-17 00:01:55.836818	Created / Connected prediction Database successfully!
+2023-02-17 00:01:55.836818	Train Table created successfully!
+2023-02-17 00:01:56.125816	Entered function create_Database_Table.
+2023-02-17 00:01:56.125816	Created / Connected prediction Database successfully!
+2023-02-17 00:01:56.126816	Train Table created successfully!
+2023-02-17 00:01:56.402815	Entered function create_Database_Table.
+2023-02-17 00:01:56.403855	Created / Connected prediction Database successfully!
+2023-02-17 00:01:56.403855	Train Table created successfully!
+2023-02-17 00:01:56.689815	Entered function create_Database_Table.
+2023-02-17 00:01:56.689815	Created / Connected prediction Database successfully!
+2023-02-17 00:01:56.690857	Train Table created successfully!
+2023-02-17 00:01:56.923391	Entered function create_Database_Table.
+2023-02-17 00:01:56.923391	Created / Connected prediction Database successfully!
+2023-02-17 00:01:56.923391	Train Table created successfully!
+2023-02-17 00:01:57.156390	Entered function create_Database_Table.
+2023-02-17 00:01:57.156390	Created / Connected prediction Database successfully!
+2023-02-17 00:01:57.156390	Train Table created successfully!
+2023-02-17 00:01:57.355393	Entered function create_Database_Table.
+2023-02-17 00:01:57.355393	Created / Connected prediction Database successfully!
+2023-02-17 00:01:57.355393	Train Table created successfully!
+2023-02-17 00:01:57.595391	Entered function create_Database_Table.
+2023-02-17 00:01:57.595391	Created / Connected prediction Database successfully!
+2023-02-17 00:01:57.596391	Train Table created successfully!
+2023-02-17 00:01:59.341076	Entered function create_Database_Table.
+2023-02-17 00:01:59.341076	Created / Connected prediction Database successfully!
+2023-02-17 00:01:59.341076	Train Table created successfully!
+2023-02-17 00:01:59.736088	Entered function create_Database_Table.
+2023-02-17 00:01:59.736088	Created / Connected prediction Database successfully!
+2023-02-17 00:01:59.736088	Train Table created successfully!
+2023-02-17 00:01:59.931074	Entered function create_Database_Table.
+2023-02-17 00:01:59.931074	Created / Connected prediction Database successfully!
+2023-02-17 00:01:59.932121	Train Table created successfully!
+2023-02-17 00:02:26.998497	Entered function create_Database_Table.
+2023-02-17 00:02:26.998497	Created / Connected prediction Database successfully!
+2023-02-17 00:02:26.998497	Train Table created successfully!
+2023-02-17 00:02:27.619810	Entered function create_Database_Table.
+2023-02-17 00:02:27.619810	Created / Connected prediction Database successfully!
+2023-02-17 00:02:27.619810	Train Table created successfully!
+2023-02-17 00:02:28.008810	Entered function create_Database_Table.
+2023-02-17 00:02:28.008810	Created / Connected prediction Database successfully!
+2023-02-17 00:02:28.009809	Train Table created successfully!
+2023-02-17 00:02:28.392812	Entered function create_Database_Table.
+2023-02-17 00:02:28.392812	Created / Connected prediction Database successfully!
+2023-02-17 00:02:28.392812	Train Table created successfully!
+2023-02-17 00:02:28.745812	Entered function create_Database_Table.
+2023-02-17 00:02:28.746808	Created / Connected prediction Database successfully!
+2023-02-17 00:02:28.746808	Train Table created successfully!
+2023-02-17 00:02:29.046811	Entered function create_Database_Table.
+2023-02-17 00:02:29.046811	Created / Connected prediction Database successfully!
+2023-02-17 00:02:29.047811	Train Table created successfully!
+2023-02-17 00:02:29.422931	Entered function create_Database_Table.
+2023-02-17 00:02:29.423930	Created / Connected prediction Database successfully!
+2023-02-17 00:02:29.423930	Train Table created successfully!
+2023-02-17 00:02:29.875013	Entered function create_Database_Table.
+2023-02-17 00:02:29.875013	Created / Connected prediction Database successfully!
+2023-02-17 00:02:29.875013	Train Table created successfully!
+2023-02-17 00:02:30.250024	Entered function create_Database_Table.
+2023-02-17 00:02:30.250024	Created / Connected prediction Database successfully!
+2023-02-17 00:02:30.250024	Train Table created successfully!
+2023-02-17 00:02:30.548013	Entered function create_Database_Table.
+2023-02-17 00:02:30.549011	Created / Connected prediction Database successfully!
+2023-02-17 00:02:30.549011	Train Table created successfully!
+2023-02-17 00:02:30.976015	Entered function create_Database_Table.
+2023-02-17 00:02:30.976015	Created / Connected prediction Database successfully!
+2023-02-17 00:02:30.976015	Train Table created successfully!
+2023-02-17 00:02:31.238021	Entered function create_Database_Table.
+2023-02-17 00:02:31.238021	Created / Connected prediction Database successfully!
+2023-02-17 00:02:31.238021	Train Table created successfully!
+2023-02-17 00:02:31.504054	Entered function create_Database_Table.
+2023-02-17 00:02:31.504054	Created / Connected prediction Database successfully!
+2023-02-17 00:02:31.504054	Train Table created successfully!
+2023-02-17 00:02:31.830012	Entered function create_Database_Table.
+2023-02-17 00:02:31.831012	Created / Connected prediction Database successfully!
+2023-02-17 00:02:31.831012	Train Table created successfully!
+2023-02-17 00:02:32.116057	Entered function create_Database_Table.
+2023-02-17 00:02:32.116057	Created / Connected prediction Database successfully!
+2023-02-17 00:02:32.116057	Train Table created successfully!
+2023-02-17 00:02:32.445021	Entered function create_Database_Table.
+2023-02-17 00:02:32.446017	Created / Connected prediction Database successfully!
+2023-02-17 00:02:32.446017	Train Table created successfully!
+2023-02-17 00:02:32.717074	Entered function create_Database_Table.
+2023-02-17 00:02:32.718077	Created / Connected prediction Database successfully!
+2023-02-17 00:02:32.718077	Train Table created successfully!
+2023-02-17 00:02:33.067080	Entered function create_Database_Table.
+2023-02-17 00:02:33.067080	Created / Connected prediction Database successfully!
+2023-02-17 00:02:33.068079	Train Table created successfully!
+2023-02-17 00:02:33.328081	Entered function create_Database_Table.
+2023-02-17 00:02:33.328081	Created / Connected prediction Database successfully!
+2023-02-17 00:02:33.328081	Train Table created successfully!
+2023-02-17 00:02:33.645075	Entered function create_Database_Table.
+2023-02-17 00:02:33.645075	Created / Connected prediction Database successfully!
+2023-02-17 00:02:33.645075	Train Table created successfully!
+2023-02-17 00:02:33.910076	Entered function create_Database_Table.
+2023-02-17 00:02:33.910076	Created / Connected prediction Database successfully!
+2023-02-17 00:02:33.911076	Train Table created successfully!
+2023-02-17 00:02:34.202600	Entered function create_Database_Table.
+2023-02-17 00:02:34.203565	Created / Connected prediction Database successfully!
+2023-02-17 00:02:34.203565	Train Table created successfully!
+2023-02-17 00:02:34.520547	Entered function create_Database_Table.
+2023-02-17 00:02:34.520547	Created / Connected prediction Database successfully!
+2023-02-17 00:02:34.520547	Train Table created successfully!
+2023-02-17 00:02:34.812584	Entered function create_Database_Table.
+2023-02-17 00:02:34.812584	Created / Connected prediction Database successfully!
+2023-02-17 00:02:34.812584	Train Table created successfully!
+2023-02-17 00:02:35.067153	Entered function create_Database_Table.
+2023-02-17 00:02:35.067153	Created / Connected prediction Database successfully!
+2023-02-17 00:02:35.067153	Train Table created successfully!
+2023-02-17 00:02:35.339151	Entered function create_Database_Table.
+2023-02-17 00:02:35.340196	Created / Connected prediction Database successfully!
+2023-02-17 00:02:35.340196	Train Table created successfully!
+2023-02-17 00:02:35.612151	Entered function create_Database_Table.
+2023-02-17 00:02:35.612151	Created / Connected prediction Database successfully!
+2023-02-17 00:02:35.613198	Train Table created successfully!
+2023-02-17 00:02:35.878200	Entered function create_Database_Table.
+2023-02-17 00:02:35.878200	Created / Connected prediction Database successfully!
+2023-02-17 00:02:35.879198	Train Table created successfully!
+2023-02-17 00:02:36.163150	Entered function create_Database_Table.
+2023-02-17 00:02:36.164196	Created / Connected prediction Database successfully!
+2023-02-17 00:02:36.164196	Train Table created successfully!
+2023-02-17 00:02:36.427157	Entered function create_Database_Table.
+2023-02-17 00:02:36.427157	Created / Connected prediction Database successfully!
+2023-02-17 00:02:36.428158	Train Table created successfully!
+2023-02-17 00:02:36.724151	Entered function create_Database_Table.
+2023-02-17 00:02:36.724151	Created / Connected prediction Database successfully!
+2023-02-17 00:02:36.724151	Train Table created successfully!
+2023-02-17 00:02:36.994151	Entered function create_Database_Table.
+2023-02-17 00:02:36.994151	Created / Connected prediction Database successfully!
+2023-02-17 00:02:36.994151	Train Table created successfully!
+2023-02-17 00:02:37.285666	Entered function create_Database_Table.
+2023-02-17 00:02:37.285666	Created / Connected prediction Database successfully!
+2023-02-17 00:02:37.286712	Train Table created successfully!
+2023-02-17 00:02:37.515668	Entered function create_Database_Table.
+2023-02-17 00:02:37.515668	Created / Connected prediction Database successfully!
+2023-02-17 00:02:37.515668	Train Table created successfully!
+2023-02-17 00:02:37.715667	Entered function create_Database_Table.
+2023-02-17 00:02:37.715667	Created / Connected prediction Database successfully!
+2023-02-17 00:02:37.715667	Train Table created successfully!
+2023-02-17 15:37:05.385050	Entered function create_Database_Table.
+2023-02-17 15:37:05.477819	Created / Connected prediction Database successfully!
+2023-02-17 15:37:05.485648	Train Table created successfully!
+2023-02-17 15:37:26.081968	Entered function create_Database_Table.
+2023-02-17 15:37:26.081968	Created / Connected prediction Database successfully!
+2023-02-17 15:37:26.081968	Train Table created successfully!
+2023-02-17 15:39:38.762742	Entered function create_Database_Table.
+2023-02-17 15:39:38.763105	Created / Connected prediction Database successfully!
+2023-02-17 15:39:38.763721	Train Table created successfully!
+2023-02-17 15:40:53.238446	Entered function create_Database_Table.
+2023-02-17 15:40:53.239424	Created / Connected prediction Database successfully!
+2023-02-17 15:40:53.240400	Train Table created successfully!
+2023-02-17 15:42:28.688397	Entered function create_Database_Table.
+2023-02-17 15:42:28.690491	Created / Connected prediction Database successfully!
+2023-02-17 15:42:28.691402	Train Table created successfully!
+2023-02-17 15:48:49.071021	Entered function create_Database_Table.
+2023-02-17 15:48:49.094497	Created / Connected prediction Database successfully!
+2023-02-17 15:48:49.095483	Train Table created successfully!
+2023-02-17 15:50:29.342599	Entered function create_Database_Table.
+2023-02-17 15:50:29.343576	Created / Connected prediction Database successfully!
+2023-02-17 15:50:29.346433	Train Table created successfully!
